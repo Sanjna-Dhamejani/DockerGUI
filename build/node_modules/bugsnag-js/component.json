@@ -1,0 +1,5 @@
+{
+    "name": "bugsnag",
+    "version": "2.5.0",
+    "main": "./src/bugsnag.js"
+}
